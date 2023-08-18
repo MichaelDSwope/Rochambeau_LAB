@@ -1,0 +1,14 @@
+C:\Users\Digit\MyProjects\RockPaperScissors_Rochambeau\obj\Debug\net6.0\RockPaperScissors_Rochambeau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Digit\MyProjects\RockPaperScissors_Rochambeau\obj\Debug\net6.0\RockPaperScissors_Rochambeau.AssemblyInfoInputs.cache
+C:\Users\Digit\MyProjects\RockPaperScissors_Rochambeau\obj\Debug\net6.0\RockPaperScissors_Rochambeau.AssemblyInfo.cs
+C:\Users\Digit\MyProjects\RockPaperScissors_Rochambeau\obj\Debug\net6.0\RockPaperScissors_Rochambeau.csproj.CoreCompileInputs.cache
+C:\Users\Digit\MyProjects\RockPaperScissors_Rochambeau\bin\Debug\net6.0\RockPaperScissors_Rochambeau.exe
+C:\Users\Digit\MyProjects\RockPaperScissors_Rochambeau\bin\Debug\net6.0\RockPaperScissors_Rochambeau.deps.json
+C:\Users\Digit\MyProjects\RockPaperScissors_Rochambeau\bin\Debug\net6.0\RockPaperScissors_Rochambeau.runtimeconfig.json
+C:\Users\Digit\MyProjects\RockPaperScissors_Rochambeau\bin\Debug\net6.0\RockPaperScissors_Rochambeau.dll
+C:\Users\Digit\MyProjects\RockPaperScissors_Rochambeau\bin\Debug\net6.0\RockPaperScissors_Rochambeau.pdb
+C:\Users\Digit\MyProjects\RockPaperScissors_Rochambeau\obj\Debug\net6.0\RockPaperScissors_Rochambeau.dll
+C:\Users\Digit\MyProjects\RockPaperScissors_Rochambeau\obj\Debug\net6.0\refint\RockPaperScissors_Rochambeau.dll
+C:\Users\Digit\MyProjects\RockPaperScissors_Rochambeau\obj\Debug\net6.0\RockPaperScissors_Rochambeau.pdb
+C:\Users\Digit\MyProjects\RockPaperScissors_Rochambeau\obj\Debug\net6.0\RockPaperScissors_Rochambeau.genruntimeconfig.cache
+C:\Users\Digit\MyProjects\RockPaperScissors_Rochambeau\obj\Debug\net6.0\ref\RockPaperScissors_Rochambeau.dll
